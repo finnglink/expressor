@@ -7,6 +7,8 @@
 
 A tiny 2HP 1U utility module (Intellijel 1U format) that turns an expression pedal into a 0–10V CV source (~9.7V in practice, see [How it works](#how-it-works)). Plug a TRS expression pedal into the `exp` jack, take CV from `out`, and you've got a foot-controlled filter sweep, LFO rate, FX send, or a nice macro controller for your patch. A small LED between the jacks shows you what's happening.
 
+**ADD ON [MODULARGRID](https://modulargrid.net/e/other-unknown-expressor)**
+
 Two stacked PCBs behind a PCB front panel: the **Jack PCB** sits right behind the panel and holds the two jacks and the LED, and the **Main PCB** sits behind that with the actual circuit and the power header (on the silkscreen they're labeled `CtrlBrd` and `MainBrd`).
 
 > [!NOTE]
