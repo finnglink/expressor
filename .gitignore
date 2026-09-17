@@ -1,0 +1,5 @@
+.DS_Store
+*.net
+*-backups/
+fp-info-cache
+*.kicad_prl
