@@ -9,6 +9,9 @@ A tiny 2HP 1U utility module (Intellijel 1U format) that turns an expression ped
 
 Two stacked PCBs behind a PCB front panel: the **Jack PCB** sits right behind the panel and holds the two jacks and the LED, and the **Main PCB** sits behind that with the actual circuit and the power header (on the silkscreen they're labeled `CtrlBrd` and `MainBrd`).
 
+> [!NOTE]
+> If you're in Germany / the EU, I have a bunch of PCB/Panel sets available. Shoot me a message! 
+
 ### Three things you should know before you build this
 
 **It uses a 3-pin power connector, not a regular Eurorack ribbon cable.** There's simply no room for a 10-pin header in 2HP 1U. You'll either need the little [3-pin busboard](#3-pin-busboard) from this repo, or the janky jumper-wire hack described in that same section.
